@@ -1,0 +1,31 @@
+# Traduction réalisée par Caranud (https://steamcommunity.com/id/Caranud/)
+# Version de mod : 1.3.0 [03/11/25]
+# Version de jeu : 1.0.2 [27/10/25]
+# Date de la dernière traduction : 16/11/2025
+# Note de Caranud : n’hésitez pas à reprendre cette traduction si je ne suis plus actif et disponible depuis un moment ! :) Je suis également sur le serveur Discord (https://discord.com/invite/HSvuUuA).
+
+[item]
+magnetpotion=Potion de magnétisme
+greatermagnetpotion=Potion supérieure de magnétisme
+supermagnet=Attracteur d’objet amélioré
+magnetbelt=Ceinture magnétique
+infinitemagnetpotion=Potion de magnétisme infinie
+infinitegreatermagnetpotion=Potion supérieure de magnétisme infinie
+magnetchest=Coffre magnétique
+
+[object]
+magnetchest=Coffre magnétique
+
+[itemtooltip]
+supermagnettip=Augmente énormément le rayon de récupération des objets.
+magnetpot=Augmente le rayon de récupération des objets de 4 cases.
+greatermagnetpot=Augmente le rayon de récupération des objets de 4 cases.
+magnetChestTip=Attire les objets proches.
+magnetChestWireTip=Peut être désactivé avec un câble.
+
+[buff]
+supermagnettrinket=Augmente la distance de ramassage d’objets de <value> cases.
+
+[settingsui]
+magnetsizetext=Vous devez rééquiper le bibelot lorsque vous changez les paramètres !
+magnetRadius=Rayon de l’attracteur d’objet amélioré
