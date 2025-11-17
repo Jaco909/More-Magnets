@@ -1,0 +1,25 @@
+[item]
+magnetpotion=Magnet Potion
+greatermagnetpotion=Greater Magnet Potion
+supermagnet=Empowered Item Attractor
+magnetbelt=Magnetized Belt
+infinitemagnetpotion=Endless Magnet Potion
+infinitegreatermagnetpotion=Endless Greater Magnet Potion
+magnetchest=Magnet Chest
+
+[object]
+magnetchest=Magnet Chest
+
+[itemtooltip]
+supermagnettip=Greatly increases item pickup range
+magnetpot=Increases item pickup range by 2
+greatermagnetpot=Increases item pickup range by 4
+magnetChestTip=Pulls in nearby items
+magnetChestWireTip=Can be deactivated with wire
+
+[buff]
+supermagnettrinket=Increases item pickup range by <value>
+
+[settingsui]
+magnetsizetext=You must re-equip the trinket upon changing settings!
+magnetRadius=Super Magnet radius
